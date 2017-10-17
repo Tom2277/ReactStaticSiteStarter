@@ -1,4 +1,4 @@
-#Create and a static web-site with ReactJS, using Sass, Bootstrap, and Webpack
+#Create a serverless site with ReactJS, using Sass, Bootstrap, and Webpack
 
 blog post:
 
